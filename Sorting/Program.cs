@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace AlgorithmDataStructure
+namespace Sorting
 {
     class Program
     {

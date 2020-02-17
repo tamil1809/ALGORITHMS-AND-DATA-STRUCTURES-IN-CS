@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.29806.167
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{33475AE2-6A2B-47D7-B964-387AADAB9231}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlgorithmDataStructure", "AlgorithmDataStructure\AlgorithmDataStructure.csproj", "{87145818-582C-470F-98CC-915713AFF045}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sorting", "Sorting\Sorting.csproj", "{45D03776-824F-4F17-84E9-DF95BCC5CA21}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,16 +13,16 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{87145818-582C-470F-98CC-915713AFF045}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{87145818-582C-470F-98CC-915713AFF045}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{87145818-582C-470F-98CC-915713AFF045}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{87145818-582C-470F-98CC-915713AFF045}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45D03776-824F-4F17-84E9-DF95BCC5CA21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45D03776-824F-4F17-84E9-DF95BCC5CA21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45D03776-824F-4F17-84E9-DF95BCC5CA21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45D03776-824F-4F17-84E9-DF95BCC5CA21}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
-		{87145818-582C-470F-98CC-915713AFF045} = {33475AE2-6A2B-47D7-B964-387AADAB9231}
+		{45D03776-824F-4F17-84E9-DF95BCC5CA21} = {33475AE2-6A2B-47D7-B964-387AADAB9231}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {1BBA2D65-64FC-40F5-A072-E9A7EBF9EBA9}
